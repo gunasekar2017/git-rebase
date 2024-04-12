@@ -2,4 +2,6 @@
 # Example of a `CODEOWNERS` file
 
 # These people are the default owners for everything in the repo.
-* @brainupgrade-in @gunasekar2017
+
+# Global rule:
+*           @gunasekar2017
