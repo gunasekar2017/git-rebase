@@ -1,2 +1,5 @@
-* @gunasekar2017
-/src/ @brainupgrade-in @gunasekar2017
+# Lines starting with '#' are comments.
+# Example of a `CODEOWNERS` file
+
+# These people are the default owners for everything in the repo.
+*       @brainupgrade-in @gunasekar2017
